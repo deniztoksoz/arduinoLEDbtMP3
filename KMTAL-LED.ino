@@ -3,6 +3,7 @@
 #include <FastLED.h>
 #include <DFRobotDFPlayerMini.h>
 
+
 //led tanımlamaları
 #define NUM_LEDS 9
 #define DATA_PIN 4
